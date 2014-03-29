@@ -1,5 +1,5 @@
 <?php
 
-	print "GIT Test - test edit";
+	print "GIT Test";
 
 ?>
